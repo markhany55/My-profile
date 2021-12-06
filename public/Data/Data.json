@@ -1,0 +1,48 @@
+{
+    
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "images/portfolio/portfolio-img1.jpg"
+        },
+        
+        {
+            "id":2,
+            "image": "images/portfolio/portfolio-img2.jpg"
+        },
+        
+        {
+            "id":3,
+            "image": "images/portfolio/portfolio-img3.jpg"
+        },
+        
+        {
+            "id":4,
+            "image": "images/portfolio/portfolio-img4.jpg"
+        },
+        
+        {
+            "id":5,
+            "image": "images/portfolio/portfolio-img5.jpg"
+        },
+        
+        {
+            "id":6,
+            "image": "images/portfolio/portfolio-img6.jpg"
+        },
+        
+        {
+            "id":7,
+            "image": "images/portfolio/portfolio-img7.jpg"
+        },
+        
+        {
+            "id":8,
+            "image": "images/portfolio/portfolio-img8.jpg"
+        }    
+    ],
+    "profile":[
+        {"Name":"Mark Hany","Birthday":"20/11/1996","Address":"Helmya","Phone":1023293521,"Email":"marhany5000@gmail.com","Website":"www.google.com"}
+    ] 
+}

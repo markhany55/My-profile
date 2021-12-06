@@ -1,0 +1,108 @@
+.profile {
+  width: 100%;
+  height: 400px;
+  margin-top: 45px;
+
+  display: flex;
+  align-items: baseline;
+}
+.myprofile {
+  width: 50%;
+  margin-left: 50px;
+}
+.profilecontainer {
+  width: 100%;
+  line-height: 30px;
+}
+.profilecontainer p {
+  display: flex;
+  width: 220px;
+}
+.profilecontainer p span {
+  width: 100px;
+}
+.prfoiletext {
+  font-weight: bold;
+  font-size: 30px;
+}
+.prfoiletext span {
+  font-weight: 400;
+}
+.website {
+  color: orange;
+  cursor: pointer;
+}
+.someskills {
+  width: 45%;
+}
+.someskillstext {
+  font-size: 30px;
+  font-weight: 400;
+}
+.someskillstext span {
+  font-weight: bold;
+}
+.skillscontain {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.percentagecontain {
+  width: 100%;
+}
+.firsthr {
+  width: 99%;
+  background-color: #eb5424;
+  height: 3px;
+}
+.secondhr {
+  width: 90%;
+  margin-right: 10%;
+  background-color: #eb5424;
+  height: 3px;
+}
+.thirdhr {
+  width: 80%;
+  margin-right: 20%;
+  background-color: #eb5424;
+  height: 3px;
+}
+.skillslorem {
+  font-size: 15px;
+  color: #888;
+  line-height: 1.5;
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .myprofile {
+    margin-left: 10px;
+  }
+  .skillslorem {
+    font-size: 10px;
+  }
+  .profilecontainer {
+    font-size: 10px;
+  }
+  .percentagecontain {
+    font-size: 10px;
+  }
+  .someskills {
+    width: 50%;
+  }
+  .profilecontainer {
+    line-height: 10px;
+  }
+  .profile {
+    height: 268px;
+  }
+  .profilecontainer p {
+    width: 155px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+@media (min-width: 1200px) {
+}

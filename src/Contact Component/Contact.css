@@ -1,0 +1,35 @@
+.contact {
+  display: flex;
+  flex-wrap: wrap;
+}
+.contacttext {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  font-size: xxx-large;
+}
+.contacttext span {
+  font-weight: 400;
+}
+.formcontain {
+  width: 50%;
+  margin: 0 25%;
+  line-height: 2;
+}
+.firstinput {
+  width: 48%;
+}
+.secondinput {
+  width: 97%;
+}
+.thirdinput {
+  width: 97%;
+  background-color: #ccc;
+  height: 200px;
+  border: solid 1px black;
+}
+.fifthinput {
+  width: 75%;
+  margin: 0 12.5%;
+  opacity: 0.5;
+}

@@ -1,0 +1,95 @@
+.mywork {
+  margin-top: 110px;
+  width: 100%;
+  height: 500px;
+}
+.myworktext {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 50px;
+}
+.myworktext span {
+  font-weight: 400;
+}
+.myworkcontain {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.onlycontain {
+  width: 25%;
+  height: 400px;
+  text-align: center;
+  border: 1px gray solid;
+}
+.photo {
+  font-size: 33px;
+  margin: 0;
+  margin-top: 11px;
+  color: #888;
+}
+.title {
+  color: #eb5424;
+  font-size: 25px;
+  margin-top: 0;
+}
+.sentense {
+  opacity: 0.6;
+}
+.myworkhr {
+  width: 200px;
+}
+@media (max-width: 767px) {
+  .mywork {
+    margin-top: 50px;
+    width: 100%;
+    height: 243px;
+    margin-left: 0;
+  }
+  .myworktext {
+    font-size: 20px;
+  }
+  .onlycontain {
+    width: 25%;
+    height: 200px;
+  }
+
+  .sentense {
+    font-size: 10px;
+  }
+  .title {
+    font-size: 10px;
+  }
+  .myworkhr {
+    width: 55px !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .mywork {
+    margin-top: 0;
+    margin-left: 0;
+    height: 438px;
+  }
+  .myworktext {
+    margin-top: 0;
+  }
+
+  .onlycontain {
+    height: 340px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .mywork {
+    margin-top: 100px;
+    margin-left: 0;
+  }
+  .myworktext {
+    margin-top: 0;
+  }
+
+  .onlycontain {
+    height: 320px;
+  }
+}
+@media (min-width: 1200px) {
+}
