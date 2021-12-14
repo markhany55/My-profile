@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink  } from 'react-router-dom'
-import './NavBar.css'
 import {Link} from 'react-scroll'
+import './NavBar.scss'
 const NavBar =()=>{
 
     return(

@@ -1,8 +1,8 @@
 import React from "react";
-import './MyWork.css'
 import {Element} from 'react-scroll'
 import {SiXdadevelopers , SiDevexpress} from 'react-icons/si'
 import {BsCodeSlash} from 'react-icons/bs'
+import "./MyWork.scss"
 const MyWork =()=>{
     return(
         <Element className="mywork" name="work">

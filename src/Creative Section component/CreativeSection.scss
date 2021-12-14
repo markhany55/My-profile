@@ -1,0 +1,49 @@
+.creativesection {
+  width: 100%;
+  background: url("../images/creative/about-bg.jpg") fixed center;
+  height: 500px;
+  .creativecontain {
+    float: right;
+    width: 50%;
+    padding-top: 20px;
+    .creativetitle {
+      font-weight: 400;
+      font-size: 50px;
+      span {
+        font-weight: bold;
+      }
+    }
+    .creativeword {
+      font-size: 40px;
+      color: #eb5424;
+    }
+    .creativesentense {
+      color: #000;
+      margin-bottom: 15px;
+      line-height: 1.8;
+      font-size: 13px;
+    }
+  }
+}
+@media (max-width: 767px) {
+  .creativesection {
+    .creativecontain {
+      float: none;
+      width: 97%;
+      padding-top: 0;
+      margin-left: 10px;
+      .creativeword {
+        font-size: 30px;
+      }
+      .creativetitle {
+        font-size: 30px;
+      }
+    }
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+@media (min-width: 1200px) {
+}

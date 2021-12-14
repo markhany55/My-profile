@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import './MyPortfolio.css'
+import './MyPortfolio.scss'
 import { Element } from "react-scroll";
 const MyPortfolio =()=>{
     const [images,setimages]=useState([])

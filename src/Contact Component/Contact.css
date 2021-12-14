@@ -1,22 +1,22 @@
-.contact {
+/* .contact {
   display: flex;
   flex-wrap: wrap;
-}
-.contacttext {
+} */
+/* .contacttext {
   width: 100%;
   text-align: center;
   font-weight: bold;
   font-size: xxx-large;
-}
-.contacttext span {
+} */
+/* .contacttext span {
   font-weight: 400;
-}
-.formcontain {
+} */
+/* .formcontain {
   width: 50%;
   margin: 0 25%;
   line-height: 2;
-}
-.firstinput {
+} */
+/* .firstinput {
   width: 48%;
 }
 .secondinput {
@@ -32,4 +32,4 @@
   width: 75%;
   margin: 0 12.5%;
   opacity: 0.5;
-}
+} */
