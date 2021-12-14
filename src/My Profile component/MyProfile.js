@@ -55,17 +55,17 @@ const MyProfile =()=>{
 <div className="percentagecontain">
     <div className="skillscontain">
 
-    <span>Bootstrap</span><span>100%</span>
+    <span>Javascript</span><span>100%</span>
     </div>
     <hr className="firsthr"></hr>
 
     <div className="skillscontain">
-    <span>CSS3</span><span>90%</span>
+    <span>React.js</span><span>90%</span>
     </div>
     <hr className="secondhr"></hr>
 
     <div className="skillscontain">
-    <span>Photoshop</span><span>80%</span>
+    <span>Css</span><span>80%</span>
     </div>
     <hr className="thirdhr"></hr>
 </div>
