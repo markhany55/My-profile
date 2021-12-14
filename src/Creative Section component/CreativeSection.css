@@ -1,21 +1,21 @@
-.creativesection {
+/* .creativesection {
   width: 100%;
   background: url(/src/images/creative/about-bg.jpg) fixed center;
   height: 500px;
-}
-.creativecontain {
+} */
+/* .creativecontain {
   float: right;
   width: 50%;
   padding-top: 20px;
-}
-.creativetitle {
+} */
+/* .creativetitle {
   font-weight: 400;
   font-size: 50px;
-}
-.creativetitle span {
+} */
+/* .creativetitle span {
   font-weight: bold;
-}
-.creativeword {
+} */
+/* .creativeword {
   font-size: 40px;
   color: #eb5424;
 }
@@ -24,8 +24,8 @@
   margin-bottom: 15px;
   line-height: 1.8;
   font-size: 13px;
-}
-@media (max-width: 767px) {
+} */
+/* @media (max-width: 767px) {
   .creativecontain {
     float: none;
     width: 97%;
@@ -44,4 +44,4 @@
 @media (min-width: 992px) and (max-width: 1199px) {
 }
 @media (min-width: 1200px) {
-}
+} */

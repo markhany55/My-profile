@@ -1,5 +1,5 @@
 import React from "react";
-import "./SocialMedia.css"
+import './SocialMedia.scss'
 const SocialMedia =()=>{
     return(
         <div className="socialmedia">

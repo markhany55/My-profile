@@ -1,5 +1,5 @@
 import React from "react";
-import './CopyRigth.css'
+import './CopyRigth.scss'
 const CopyRight=()=>{
     return(
 <div className="copyright">

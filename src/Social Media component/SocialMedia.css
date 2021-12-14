@@ -1,32 +1,32 @@
-.socialmedia {
+/* .socialmedia {
   width: 100%;
   height: 221px;
   display: flex;
-}
-.facebook {
+} */
+/* .facebook {
   background-color: #3b5998;
   width: 33%;
   padding: 60px 0 60px 40px;
   display: flex;
   height: 100px;
-}
-.socailimg {
+} */
+/* .socailimg {
   display: block;
   background: url(/src/images/icons/Facebook-logo.png) no-repeat;
   width: 70px;
   height: 70px;
   background-size: 80px;
   margin-top: 31px;
-}
-.followtext {
+} */
+/* .followtext {
   color: white;
   font-size: 20px;
 }
 .socialtext {
   color: white;
   font-size: 20px;
-}
-.twitterimg {
+} */
+/* .twitterimg {
   display: block;
   background: url(/src/images/icons/twitter-logo.jpg) no-repeat;
   width: 70px;
@@ -34,38 +34,38 @@
   background-size: 60px;
   margin-top: 31px;
   background-color: #498cbf;
-}
-.twitterimg {
+} */
+/* .twitterimg {
   display: block;
   background: url(/src/images/icons/twitter-logo.jpg) no-repeat;
   width: 70px;
   height: 70px;
   background-size: 60px;
   margin-top: 31px;
-}
-.twitter {
+} */
+/* .twitter {
   background-color: #498cbf;
   width: 33%;
   padding: 60px 0 60px 40px;
   display: flex;
   height: 100px;
-}
-.pinterestimg {
+} */
+/* .pinterestimg {
   display: block;
   background: url(/src/images/icons/pinterest.png) no-repeat;
   width: 70px;
   height: 70px;
   background-size: 60px;
   margin-top: 31px;
-}
-.pinterest {
+} */
+/* .pinterest {
   background-color: #cc2127;
   width: 33%;
   padding: 60px 0 60px 40px;
   display: flex;
   height: 100px;
-}
-@media (min-width: 100px) and (max-width: 767px) {
+} */
+/* @media (min-width: 100px) and (max-width: 767px) {
   .socialmedia {
     flex-wrap: wrap;
     height: 320px;
@@ -91,4 +91,4 @@
 @media (min-width: 992px) and (max-width: 1199px) {
 }
 @media (min-width: 1200px) {
-}
+} */

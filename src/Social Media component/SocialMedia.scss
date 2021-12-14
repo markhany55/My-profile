@@ -1,0 +1,78 @@
+.socialmedia {
+  width: 100%;
+  height: 221px;
+  display: flex;
+  .facebook {
+    background-color: #3b5998;
+    width: 33%;
+    padding: 60px 0 60px 40px;
+    display: flex;
+    height: 100px;
+    .socailimg {
+      display: block;
+      background: url("../images/icons/Facebook-logo.png") no-repeat;
+      width: 70px;
+      height: 70px;
+      background-size: 80px;
+      margin-top: 31px;
+    }
+    div {
+      .followtext {
+        color: white;
+        font-size: 20px;
+      }
+      .socialtext {
+        color: white;
+        font-size: 20px;
+      }
+    }
+  }
+  .twitter {
+    @extend .facebook;
+    background-color: #498cbf;
+    .twitterimg {
+      display: block;
+      background: url("../images/icons/twitter-logo.jpg") no-repeat;
+      width: 70px;
+      height: 70px;
+      background-size: 60px;
+      margin-top: 31px;
+      background-color: #498cbf;
+    }
+  }
+  .pinterest {
+    @extend .facebook;
+    background-color: #cc2127;
+    .pinterestimg {
+      display: block;
+      background: url("../images/icons/pinterest.png") no-repeat;
+      width: 70px;
+      height: 70px;
+      background-size: 60px;
+      margin-top: 31px;
+    }
+  }
+}
+@media (min-width: 100px) and (max-width: 767px) {
+  .socialmedia {
+    flex-wrap: wrap;
+    height: 320px;
+    .facebook {
+      width: 100%;
+      height: 50px;
+      padding: 0px 0 60px 40px;
+    }
+    .twitter {
+      @extend .facebook;
+    }
+    .pinterest {
+      @extend .facebook;
+    }
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+@media (min-width: 1200px) {
+}

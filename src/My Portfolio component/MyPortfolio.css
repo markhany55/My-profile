@@ -1,23 +1,23 @@
-.myportfolio {
+/* .myportfolio {
   width: 100%;
   height: 500px;
   text-align: center;
-}
-.myportfoliolis {
+} */
+/* .myportfoliolis {
   display: flex;
   justify-content: center;
   flex-direction: row;
-}
-.myportfoliolis li {
+} */
+/* .myportfoliolis li {
   list-style: none;
   margin-right: 20px;
-}
-.imgcss {
+} */
+/* .imgcss {
   width: 25%;
   height: 200px;
   position: relative;
-}
-.imgcss img {
+} */
+/* .imgcss img {
   width: 100%;
   height: 100%;
 }
@@ -28,8 +28,8 @@
   position: absolute;
   top: -30px;
   display: none;
-}
-.stext {
+} */
+/* .stext {
   position: absolute;
   bottom: 50%;
   left: 27%;
@@ -40,23 +40,23 @@
   height: 14%;
   font-size: 17px;
   border-radius: 12px;
-}
+} */
 
-.imgcss:hover .showimage {
+/* .imgcss:hover .showimage {
   display: block;
-}
-.show {
+} */
+/* .show {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-}
-.myportfolio p {
+} */
+/* .myportfolio p {
   font-weight: bold;
   font-size: 30px;
-}
-.myportfolio span {
+} */
+/* .myportfolio span {
   font-weight: 400;
-}
+} */
 @media (max-width: 767px) {
 }
 @media (min-width: 768px) and (max-width: 991px) {

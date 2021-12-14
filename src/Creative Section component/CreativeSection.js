@@ -1,5 +1,5 @@
 import React from "react";
-import './CreativeSection.css'
+import './CreativeSection.scss'
 const CreativeSection=()=>{
     return(
 <div className="creativesection">

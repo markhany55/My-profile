@@ -1,8 +1,8 @@
 import axios from "axios";
 import React, { useState } from "react";
 import { useEffect } from "react/cjs/react.development";
-import './MyProfile.css'
 import { Element } from "react-scroll";
+import './Myprofile.scss'
 const MyProfile =()=>{
 
     const[data,setdata]=useState([])
